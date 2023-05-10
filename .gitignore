@@ -1,0 +1,33 @@
+# Fichiers et dossiers spécifiques à Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.egg-info/
+dist/
+build/
+*.egg
+*.log
+
+# Environnements virtuels
+venv/
+.venv/
+.virtualenv/
+
+# Fichiers et dossiers spécifiques à Airflow
+airflow.cfg
+webserver_config.py
+logs/
+airflow/
+
+# Fichiers et dossiers spécifiques à Visual Studio Code
+.vscode/
+
+# Autres fichiers et dossiers générés automatiquement
+*.bak
+*.swp
+*.swo
+*.cache
+*~
+*.tmp

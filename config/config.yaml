@@ -1,0 +1,5 @@
+
+env: "dev"
+root_path: ".../AIRFLOW-ELT-TEMPLATE/"
+data_path: ".../AIRFLOW-ELT-TEMPLATE/data/"
+notif: ['test@email.com']
