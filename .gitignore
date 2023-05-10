@@ -31,3 +31,4 @@ airflow/
 *.cache
 *~
 *.tmp
+*.DS_Store

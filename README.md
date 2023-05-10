@@ -64,11 +64,12 @@ dags/
 └── .airflowignore
 ```
 - **dags_definitions** : Here we store airflow dags definition files
-- **common** : This is the place for python operators functions<>
+- **common** : This is the place for python operators functions
 - **utils** : Custom functions 
 
 PS : 
 `deduplicate` is an example of use case of data manipulation and should be dropped
+
 `etl` is the name of the project package and you can change is if you want
 
 ### III.3 Testing
